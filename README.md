@@ -32,11 +32,17 @@ attributes of a session.
 To understand this functionality better, consider the following sequence of calls for a particular
 
 ggstart 2016­05­09 2:00:00
+
 ggstop 2016­05­09 2:09:13
+
 ggstart 2016­05­09 2:09:14
+
 ggstop 2016­05­09 2:17:57
+
 ggstart 2016­05­09 3:00:00
+
 ggstop 2016­05­09 3:02:46
+
 
 
 If you look at the data above, this represents two sessions (first one from 2:00:00 to 2:17:57,
